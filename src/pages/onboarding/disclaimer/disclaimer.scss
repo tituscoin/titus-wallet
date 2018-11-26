@@ -1,0 +1,47 @@
+page-disclaimer {
+  & > ion-content {
+    background-image: $onboarding-background-image !important;
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  text-align: center;
+  ion-header {
+    .toolbar-title,
+    ion-icon {
+      color: color($colors, primary);
+    }
+    .toolbar-background {
+      background-color: transparent;
+    }
+  }
+  .link {
+    font-size: 2vh;
+    cursor: pointer;
+  }
+  .checkbox-list {
+    ion-item,
+    .agree-to-terms ion-item {
+      font-size: 14px;
+      background: none;
+      color: #ffffff;
+      box-shadow: none;
+    }
+  }
+  .top-description {
+    font-size: 1.4rem;
+    padding: 0 4rem 0 4rem;
+    opacity: 0.7;
+    color: $onboarding-comment-color;
+  }
+  .title {
+    color: color($colors, primary);
+  }
+  ion-footer.footer-md::before {
+    height: 0;
+  }
+  a.externalLink {
+    cursor: pointer;
+    color: color($colors, primary);
+  }
+}

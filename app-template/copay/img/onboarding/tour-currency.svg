@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="272px" height="176px" viewBox="0 0 272 176" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>tour-currency</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0.3-welcome" transform="translate(-24.000000, -188.000000)">
+            <g id="tour-currency" transform="translate(25.000000, 188.000000)">
+                <circle id="Oval" fill="#004E6F" cx="136" cy="88" r="88"></circle>
+                <polygon id="Rectangle-5" fill="#C1CBD7" opacity="0.100000001" points="0 97 40 93 71 72 101 88 135 59 162 60 178 36 202 50 270 31 270 136 0 136"></polygon>
+                <polyline id="Rectangle-5" stroke="#C1CBD7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="0 97 40 93 71 72 101 88 135 59 162 60 178 36 202 50 270 31"></polyline>
+                <rect id="Rectangle-6" fill="#ABEC90" x="134" y="17" width="2" height="119"></rect>
+                <circle id="Oval-2" stroke="#0F2845" stroke-width="3" fill="#ABEC90" cx="135" cy="60" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

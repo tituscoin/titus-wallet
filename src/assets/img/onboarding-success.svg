@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>onboarding-success</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-140.000000, -126.000000)">
+            <g id="onboarding-success" transform="translate(140.000000, 126.000000)">
+                <circle id="Oval-5" fill="#FFFFFF" cx="20" cy="20" r="20"></circle>
+                <path d="M8.79392296,21.206077 C9.18387854,20.8161215 9.88713884,20.7084594 10.3766189,20.9720256 L16,24 L31.7263016,11.1330259 C32.1536034,10.7834154 32.8181114,10.8181114 33.206077,11.206077 L33.2236376,11.2236376 C33.6524107,11.6524107 33.6564991,12.3435009 33.2265625,12.7734375 L16.7056213,29.2943787 C16.3159174,29.6840826 15.6764822,29.6764822 15.2900534,29.2900534 L8.84856631,22.8485663 C8.37991608,22.3799161 8.37851334,21.6214867 8.85515976,21.1448402 L8.79392296,21.206077 Z" id="Checkmark" fill="#ABEC90"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="20px" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-scan</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.0-dashboard" transform="translate(-148.000000, -528.000000)" fill="#8E9398">
+            <g id="ico-scan" transform="translate(148.000000, 526.000000)">
+                <path d="M18,2 L20.0092049,2 C21.1086907,2 22,2.89821238 22,3.99079514 L22,6 L20.5,6 L20.5,3.99044323 C20.5,3.71494281 20.2804211,3.5 20.0095568,3.5 L18,3.5 L18,2 Z M6,2 L3.99079514,2 C2.89821238,2 2,2.89130934 2,3.99079514 L2,6 L3.5,6 L3.5,3.99044323 C3.5,3.71957891 3.71494281,3.5 3.99044323,3.5 L6,3.5 L6,2 Z M18,22 L20.0092049,22 C21.1017876,22 22,21.1086907 22,20.0092049 L22,18 L20.5,18 L20.5,20.0095568 C20.5,20.2804211 20.2850572,20.5 20.0095568,20.5 L18,20.5 L18,22 Z M6,22 L3.99079514,22 C2.89130934,22 2,21.1017876 2,20.0092049 L2,18 L3.5,18 L3.5,20.0095568 C3.5,20.2850572 3.71957891,20.5 3.99044323,20.5 L6,20.5 L6,22 Z" id="Combined-Shape"></path>
+                <rect id="Rectangle-13" x="0" y="11" width="24" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

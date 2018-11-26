@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>onboarding-warning</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0.6-backup" transform="translate(-132.000000, -36.000000)">
+            <g id="onboarding-warning" transform="translate(132.000000, 36.000000)">
+                <circle id="Oval-4" stroke="#ABEC90" stroke-width="1.5" cx="28" cy="28" r="27.25"></circle>
+                <path d="M27.3808594,17 L27.5126953,31.4580078 L29.2851562,31.4580078 L29.4023438,17 L27.3808594,17 Z M28.3916016,38.2841797 C29.1826172,38.2841797 29.7978516,37.6689453 29.7978516,36.8925781 C29.7978516,36.1015625 29.1826172,35.5009766 28.3916016,35.5009766 C27.6152344,35.5009766 27,36.1015625 27,36.8925781 C27,37.6689453 27.6152344,38.2841797 28.3916016,38.2841797 Z" id="!" fill="#ABEC90"></path>
+            </g>
+        </g>
+    </g>
+</svg>

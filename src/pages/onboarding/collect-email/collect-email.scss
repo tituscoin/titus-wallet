@@ -1,0 +1,74 @@
+page-collect-email {
+  & > ion-content {
+    background-image: $onboarding-background-image !important;
+    background-position: top center;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  ion-header {
+    .toolbar-title,
+    ion-icon {
+      color: color($colors, primary);
+    }
+    .toolbar-background {
+      background-color: transparent;
+    }
+  }
+  text-align: center;
+  .title {
+    color: color($colors, primary);
+  }
+  p {
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+  .email-form {
+    p,
+    ion-item {
+      color: color($colors, blank);
+    }
+    ion-item {
+      margin: auto;
+      padding: 0 5%;
+      background: none;
+      box-shadow: none;
+    }
+    form {
+      .item-md.item-input.ng-valid.item-input-has-focus,
+      .item-md.item-input.ng-invalid.item-input-has-focus,
+      .item-md.item-input.ng-valid.item-input-has-value:not(.input-has-focus):not(.item-input-has-focus) {
+        .item-inner {
+          border-bottom-color: color($colors, primary);
+          box-shadow: none;
+        }
+      }
+    }
+    form.ng-touched {
+      .item-md.item-input.ng-invalid:not(.input-has-focus):not(.item-input-has-focus) {
+        .item-inner {
+          border-bottom-color: color($colors, error);
+          box-shadow: none;
+        }
+      }
+    }
+  }
+  .description {
+    padding: 0 3rem 0 3rem;
+    font-size: 1.4rem;
+    opacity: 0.7;
+    color: $onboarding-comment-color;
+  }
+  ion-content {
+    img {
+      padding-top: 3em;
+    }
+  }
+  .fixed {
+    height: 100%;
+    width: 100%;
+    overflow-y: hidden;
+  }
+  .primary-color {
+    color: $onboarding-primary-color;
+  }
+}

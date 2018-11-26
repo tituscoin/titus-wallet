@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="176px" height="176px" viewBox="0 0 176 176" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>tour-phone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0.2-welcome" transform="translate(-72.000000, -218.000000)">
+            <g id="tour-phone" transform="translate(72.000000, 218.000000)">
+                <circle id="Oval" fill="#004E6F" cx="88" cy="88" r="88"></circle>
+                <rect id="Rectangle-5" stroke="#C1CBD7" stroke-width="1.5" x="53.75" y="23.75" width="68.5" height="128.5" rx="8"></rect>
+                <g id="qr-code-2" transform="translate(63.000000, 50.000000)" fill-rule="nonzero" fill="#ABEC90">
+                    <path d="M0,0 L0,22.8260742 L22.8260742,22.8260742 L22.8260742,0 L0,0 Z M19.5652344,19.5652344 L3.26083984,19.5652344 L3.26083984,3.26083984 L19.5652344,3.26083984 L19.5652344,19.5652344 L19.5652344,19.5652344 Z" id="Shape"></path>
+                    <rect id="Rectangle-path" x="6.52177734" y="6.52177734" width="9.78261719" height="9.78261719"></rect>
+                    <path d="M27.1739258,0 L27.1739258,22.8260742 L50,22.8260742 L50,0 L27.1739258,0 Z M46.7391602,19.5652344 L30.4347656,19.5652344 L30.4347656,3.26083984 L46.7391602,3.26083984 L46.7391602,19.5652344 Z" id="Shape"></path>
+                    <rect id="Rectangle-path" x="33.6956055" y="6.52177734" width="9.78261719" height="9.78261719"></rect>
+                    <path d="M0,27.1739258 L0,50 L22.8260742,50 L22.8260742,27.1739258 L0,27.1739258 Z M19.5652344,46.7391602 L3.26083984,46.7391602 L3.26083984,30.4347656 L19.5652344,30.4347656 L19.5652344,46.7391602 L19.5652344,46.7391602 Z" id="Shape"></path>
+                    <rect id="Rectangle-path" x="6.52177734" y="33.6956055" width="9.78261719" height="9.78261719"></rect>
+                    <polygon id="Shape" points="33.6956055 30.4347656 33.6956055 27.1739258 27.1739258 27.1739258 27.1739258 50 33.6956055 50 33.6956055 46.7391602 30.4347656 46.7391602 30.4347656 40.2173828 33.6956055 40.2173828 33.6956055 36.956543 30.4347656 36.956543 30.4347656 30.4347656"></polygon>
+                    <rect id="Rectangle-path" x="46.7391602" y="27.1739258" width="3.26083984" height="3.26083984"></rect>
+                    <polygon id="Shape" points="46.7391602 34.7826172 46.7391602 46.7391602 43.4782227 46.7391602 43.4782227 50 50 50 50 34.7826172"></polygon>
+                    <rect id="Rectangle-path" x="36.956543" y="27.1739258" width="6.52177734" height="3.26083984"></rect>
+                    <polygon id="Shape" points="43.4782227 36.956543 43.4782227 33.6956055 36.956543 33.6956055 36.956543 43.4782227 43.4782227 43.4782227 43.4782227 40.2173828 40.2173828 40.2173828 40.2173828 36.956543"></polygon>
+                    <rect id="Rectangle-path" x="36.956543" y="46.7391602" width="3.26083984" height="3.26083984"></rect>
+                </g>
+                <rect id="Rectangle-6" fill="#C1CBD7" x="83" y="29" width="10" height="2" rx="1"></rect>
+                <line id="Line-1" stroke="#C1CBD7" stroke-width="0.4" x1="54" x2="122" y1="35" y2="35"></line>
+                <line id="Line-2" stroke="#C1CBD7" stroke-width="0.4" x1="54" x2="122" y1="138" y2="138"></line>
+                <rect id="Rectangle-7" fill="#C1CBD7" x="80" y="141" width="16" height="7" rx="2" ry="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

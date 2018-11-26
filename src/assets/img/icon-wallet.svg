@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-wallet</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.0-dashboard" transform="translate(-41.000000, -451.000000)">
+            <g id="icon-wallet" transform="translate(32.000000, 439.000000)">
+                <rect id="Rectangle-6" x="0" y="0" width="40" height="40"></rect>
+                <path d="M9.75,14.2924099 L9.75,25.7075901 C9.75,26.5676109 10.4020902,27.25 11.1898746,27.25 L28.8101254,27.25 C29.5929247,27.25 30.25,26.5638023 30.25,25.7075901 L30.25,14.2924099 C30.25,13.4323891 29.5979098,12.75 28.8101254,12.75 L11.1898746,12.75 C10.4070753,12.75 9.75,13.4361977 9.75,14.2924099 Z" id="Combined-Shape" stroke="#0F2845" stroke-width="0.5" fill-rule="nonzero"></path>
+                <circle id="Oval-2" stroke="#0F2845" stroke-width="0.5" cx="26" cy="20" r="1.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+page-backup-request {
+  & > ion-content {
+    background-image: $onboarding-background-image;
+    background-position: top center;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  text-align: center;
+  .title {
+    color: color($colors, primary);
+  }
+  .top-description, .bottom-description {
+    padding: 0 3rem 0 3rem;
+    font-size: 1.4rem;
+    opacity: 0.7;
+    color: $onboarding-comment-color;
+  }
+  .arrow-down {
+    font-size: 7rem;
+    color: color($colors, primary);
+    @media (max-height: 560px) and (max-width: 430px) {
+      display: none;
+    }
+  }
+  .alert-icon {
+    margin: 20px auto 0;
+    height: 15vh;
+  }
+  .primary-color {
+    color: $onboarding-primary-color;
+  }
+  .bottom-absolute {
+    padding: 15px 15px 0 15px;
+  }
+}
